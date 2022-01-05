@@ -1,0 +1,15 @@
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\Day 21.csproj.AssemblyReference.cache
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\Day 21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\Day 21.AssemblyInfoInputs.cache
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\Day 21.AssemblyInfo.cs
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\Day 21.csproj.CoreCompileInputs.cache
+C:\Users\conac\Documents\Advent Of Code\Day 21\bin\Debug\net6.0\Day 21.exe
+C:\Users\conac\Documents\Advent Of Code\Day 21\bin\Debug\net6.0\Day 21.deps.json
+C:\Users\conac\Documents\Advent Of Code\Day 21\bin\Debug\net6.0\Day 21.runtimeconfig.json
+C:\Users\conac\Documents\Advent Of Code\Day 21\bin\Debug\net6.0\Day 21.dll
+C:\Users\conac\Documents\Advent Of Code\Day 21\bin\Debug\net6.0\ref\Day 21.dll
+C:\Users\conac\Documents\Advent Of Code\Day 21\bin\Debug\net6.0\Day 21.pdb
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\Day 21.dll
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\ref\Day 21.dll
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\Day 21.pdb
+C:\Users\conac\Documents\Advent Of Code\Day 21\obj\Debug\net6.0\Day 21.genruntimeconfig.cache
