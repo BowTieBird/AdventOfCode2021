@@ -1,0 +1,15 @@
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\Day 14.csproj.AssemblyReference.cache
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\Day 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\Day 14.AssemblyInfoInputs.cache
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\Day 14.AssemblyInfo.cs
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\Day 14.csproj.CoreCompileInputs.cache
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\bin\Debug\net6.0\Day 14.exe
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\bin\Debug\net6.0\Day 14.deps.json
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\bin\Debug\net6.0\Day 14.runtimeconfig.json
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\bin\Debug\net6.0\Day 14.dll
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\bin\Debug\net6.0\ref\Day 14.dll
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\bin\Debug\net6.0\Day 14.pdb
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\Day 14.dll
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\ref\Day 14.dll
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\Day 14.pdb
+C:\Users\conac\Documents\AdventOfCode2021\Day 14\obj\Debug\net6.0\Day 14.genruntimeconfig.cache
