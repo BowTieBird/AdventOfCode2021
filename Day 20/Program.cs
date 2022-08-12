@@ -14,7 +14,7 @@ for (int iteration = 0; iteration < N; iteration++) {
 
     int m = grid.Length, n = grid[0].Length;
     string[] nextgrid = new string[m+2];
-    for (int y = -1; y <= m; y++) {
+    for (int y = -1; y <= m; y++) { // indices x and y match with indices of the old grid
         string padding = new string(infinitechar, 2);
         if (y+1 < m) grid[y+1] = String.Concat(padding, grid[y+1], padding); // add padding
         nextgrid[y+1] = "";
@@ -26,7 +26,7 @@ for (int iteration = 0; iteration < N; iteration++) {
             neighbours += y >= m-1 ? new string(infinitechar, 3) : grid[y+1].Substring(x+1, 3);
 
             int index = Convert.ToInt32(neighbours, 2);
-            nextgrid[y+1] += algorithm[index];
+            nextgrid[y+1] += algorithm[index]; // look up the new character using the algorithm
 
             // Console.WriteLine(neighbours.Substring(0, 3));
             // Console.WriteLine(neighbours.Substring(3, 3));
