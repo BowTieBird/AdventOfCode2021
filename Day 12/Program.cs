@@ -24,12 +24,12 @@ paths.Push(startpath);
 
 double numbpaths = 0;
 
-void printpath(List<string> path) {
-    Console.WriteLine();
-    for (int j = 0; j < path.Count; j++) {
-        Console.Write(path[j] + "-");
-    }
-}
+// void printpath(List<string> path) {
+//     Console.WriteLine();
+//     for (int j = 0; j < path.Count; j++) {
+//         Console.Write(path[j] + "-");
+//     }
+// }
 
 bool cango(List<string> path, string s) {
     if(Char.IsUpper(s, 0)) return true;
